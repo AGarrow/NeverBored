@@ -11,11 +11,18 @@
 ==Possible Relationships
 
 ===event model
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+<table>
+  <tr>
+    <th>type</th><th>title</th><th>venue.id</th><th>date</th><th>price</th><th>source</th>
+  </tr>
+  <tr>
+    <td>festival</td>
+    <td>international jazz festival</td>
+    <td>15 id's</td>
+    <td>June 28 - July 7</td>
+    <td>$0</td>
+    <td>tourisme-montreal.org</td>
+  </tr>
+</table>
 
 
