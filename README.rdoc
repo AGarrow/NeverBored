@@ -11,9 +11,11 @@
 ==Possible Relationships
 
 ===event model
-type |  title |  date  | venue.id | notes | source  
------ | ------ | ------ | ----- | ----- | -----
-festival | International Jazz Festival | June 28 - July 7 | multiple id's | the worlds largest jazz festival ... | tourisme-montreal.org 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
