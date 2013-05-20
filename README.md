@@ -1,4 +1,4 @@
-==Sites to Scrape
+##Sites to Scrape
 * http://www.tourisme-montreal.org/What-To-Do
 * http://events.montreal.com
 * http://http://livemontrealevents.wantickets.com/
@@ -8,9 +8,9 @@
 * http://eventful.com/montreal/events
 
 
-==Possible Relationships
+##Possible Relationships
 
-===event model
+###event model
  type |  title |  date  | venue.id | notes | source  
 ----- | ------ | ------ | ----- | ----- | ----
 festival | International Jazz Festival | June 28 - July 7 | multiple id's | the worlds largest jazz festival ... | tourisme-montreal.org 
