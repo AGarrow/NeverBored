@@ -45,13 +45,14 @@ festival | International Jazz Festival | June 28 - July 7 | multiple id's | $0 |
 ### venue table and event table
 more specific and versatile, sort of limits us to musical events but allows us to do more with them. personally I prefer this. 
 ####venue model
-id|name | address | postal code |contact_info | source
---|-----|---------|-------------|-------------|-------
+id  |name | address | postal code |contact_info | source
+----|-----|---------|-------------|-------------|-------
 1|Upstairs Jazz | 1254 Mackay | h3g 2h4 | (514)931-6808 | upstairsjazz.com
 
 ####event model
 we also need to take into consideration that a lot of bars charge different prices for different times of arrival.
 title | venue.id | date | time | price | notes
+------|----------|------|------|-------|------
 Hellen Allan Trio | 1 | May 22 | 8:30 pm | $8 | an evening of jazz highlighted by ...
 
 
