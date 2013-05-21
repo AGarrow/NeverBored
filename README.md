@@ -13,15 +13,15 @@
 
 ##### specific bars
 
-*http://divanorange.org/
-*http://www.liftticketsystem.com/events/casadelpopolo
-*http://www.upstairsjazz.com/en/calendar.php
-*http://www.brutopia.net/en_entertainment.php
-*http://www.bistroajojo.com/en/programmation.php
-*http://www.olympiamontreal.com/les-evenements/
+* http://divanorange.org/
+* http://www.liftticketsystem.com/events/casadelpopolo
+* http://www.upstairsjazz.com/en/calendar.php
+* http://www.brutopia.net/en_entertainment.php
+* http://www.bistroajojo.com/en/programmation.php
+* http://www.olympiamontreal.com/les-evenements/
 
 ###### general list of bars that have live music
-*http://www.urbanspoon.com/t/67/13/Montreal/Live-Music-restaurants
+* http://www.urbanspoon.com/t/67/13/Montreal/Live-Music-restaurants
 
 
 #### Festivals
