@@ -51,6 +51,7 @@ id  |name | address | postal code |contact_info | source
 
 ####event model
 we also need to take into consideration that a lot of bars charge different prices for different times of arrival.
+
 title | venue.id | date | time | price | notes
 ------|----------|------|------|-------|------
 Hellen Allan Trio | 1 | May 22 | 8:30 pm | $8 | an evening of jazz highlighted by ...
